@@ -92,7 +92,7 @@ function Header() {
 					</span>
 					<span className="mh-text">
 						<Link to="/" title="">
-							Social Network
+							Vibe Link
 						</Link>
 					</span>
 				</div>
@@ -129,7 +129,7 @@ function Header() {
 						bottom: 3,
 						position: 'relative' 
 					}}>
-						Social Network
+						ShareMe
 					</Link>
 				</div>
 
@@ -147,10 +147,6 @@ function Header() {
 							</>
 						) : (
 							<>
-								<li>
-									<Link to="/Ads">My Ads</Link>
-								</li>
-
 								<li>
 									<Link to="/Friends">Friends <i className="fa fa-angle-right"></i></Link>
 								</li>

@@ -29,15 +29,9 @@ const LeftSidebar = function () {
 			<div className="widget">
 				<h4 className="widget-title">Shortcuts</h4>
 				<ul className="naves" id="left-sidebar">
-					<li>
-						<i className="ti-user"></i>
-						&nbsp;<Link to="/PeopleNearby">People nearby</Link>
-					</li>
+					
 
-					<li>
-						<i className="ti-video-camera"></i>
-						&nbsp;<Link to="/Watch">Watch</Link>
-					</li>
+					
 
 					<li>
 						<i className="ti-user"></i>
@@ -72,10 +66,7 @@ const LeftSidebar = function () {
 						</Link>
 					</li>
 
-					<li>
-						<i className="ti-calendar"></i>
-						&nbsp;<Link to="/Events">Events <span className="badge" id="events-badge"></span></Link>
-					</li>
+	
 				</ul>
 			</div>
 		</aside>
