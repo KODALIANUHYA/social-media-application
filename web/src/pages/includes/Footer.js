@@ -78,7 +78,7 @@ function Footer() {
 				<div className="container">
 					<div className="row">
 						<div className="col-12 text-center">
-							Social Network &copy; { year }. Developed by <a href="https://adnan-tech.com/" target="_blank">Anuhya Kodali</a>
+							Social Network &copy; { year }. Developed by <a href="https://www.linkedin.com/in/anuhya-kodali-554537245/" target="_blank">Anuhya Kodali</a>
 						</div>
 					</div>
 				</div>
